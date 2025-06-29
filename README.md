@@ -105,8 +105,5 @@ torch.save(model.state_dict(), "/content/drive/MyDrive/vit_model_skeleton.pth")
 
 ## ✍️ Yazar
 
-**Hakan Fırat** – [github.com/hakan8755](https://github.com/hakan8755)
+**Hakan Aytuğ Fırat** – [github.com/hakan8755](https://github.com/hakan8755)
 
-## 📄 Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır.
